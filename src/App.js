@@ -15,7 +15,10 @@ function App() {
             open-sourced on Github
           </a>{" "}
           and
-          <a href="http://www.example.com"> hosted on Netlify.</a>
+          <a href="https://app.netlify.com/sites/nimble-cajeta-f4cd7c/deploys/679339163137ef8cf5547a33">
+            {" "}
+            hosted on Netlify.
+          </a>
         </p>
       </header>
     </div>
